@@ -1,9 +1,15 @@
 ### Hi there 👋
 
+I'm a fullstack web developer based in Minnesota.
+
+I mostly to stuff with React and Typescript, but I work on other stuff too.
+
+![Laine's Langauge stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laine-hallot&size_weight=1&count_weight=0&exclude_repo=twitterbot)
+
+
 <!--
 **laine-hallot/laine-hallot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Laine's Langauge stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laine-hallot&size_weight=1&count_weight=0&exclude_repo=twitterbot)
 
 Here are some ideas to get you started:
 
