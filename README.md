@@ -4,7 +4,7 @@ I'm a fullstack web developer based in Minnesota.
 
 I mostly to stuff with React and Typescript, but I work on other stuff too.
 
-![Laine's Langauge stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laine-hallot&size_weight=1&count_weight=0&exclude_repo=twitterbot)
+![Laine's Langauge stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laine-hallot&size_weight=1&count_weight=0&exclude_repo=twitterbot&card_width=600&theme=buefy)
 
 
 <!--
